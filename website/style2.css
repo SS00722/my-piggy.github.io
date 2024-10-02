@@ -1,0 +1,8 @@
+header{
+
+    width: 100%;
+    background: fixed url(bg4.svg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+} 
